@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap");
+* {
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  background-color: #0d1e3a;
+  font-family: Poppins, sans-serif;
+}
+
+* body {
+  margin: 30px;
+  padding: 30px;
+}
+
+* body .profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+* body h1 {
+  font-size: large;
+}
+
+* body p {
+  font-size: small;
+}
+
+* body .socials-icons {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+* body .btn {
+  margin: 25px;
+  display: block;
+  color: black;
+  cursor: pointer;
+  padding: 20px 5px;
+  background: white;
+  text-decoration: none;
+  -webkit-box-shadow: 5px 10px #d1d5da;
+          box-shadow: 5px 10px #d1d5da;
+}
+
+* body .btn:hover {
+  color: white;
+  background: #0f3065;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+}
+/*# sourceMappingURL=style.css.map */
